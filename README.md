@@ -6,7 +6,7 @@ The Push Swap project is a challenging sorting algorithm problem designed as par
 
 For this project, I utilized the following methods and techniques:
 
-    - Radix Sort: I implemented the radix sorting method to efficiently sort the stack. Radix sort is a non-comparison-based sorting algorithm that organizes numbers based on their individual digits.
+    + Radix Sort: I implemented the radix sorting method to efficiently sort the stack. Radix sort is a non-comparison-based sorting algorithm that organizes numbers based on their individual digits.
 
     Linked Lists: The stacks in Push Swap were managed using linked lists, which allowed for dynamic data manipulation and efficient stack operations.
 
